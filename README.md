@@ -7,7 +7,7 @@ Scaler is an online tech-versity offering intensive computer science & Data Scie
 You are working as a data scientist with the analytics vertical of Scaler, focused on profiling the best companies and job positions to work for from the Scaler database. You are provided with the information for a segment of learners and tasked to cluster them on the basis of their job profile, company, and other features. Ideally, these clusters should have similar characteristics.
 
 **Dataset:**
-Dataset Link: scaler_kmeans.csv
+Dataset Link: [scaler_kmeans.csv](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/002/856/original/scaler_clustering.csv)
 
 Concept Used:
 
